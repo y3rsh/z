@@ -1,0 +1,172 @@
+[
+    {
+        "name": "TRANSFECTION_TYPE",
+        "type": "dropDown",
+        "label": "Conventional or Reverse Transfection?",
+        "options": [
+            {
+                "label": "Conventional",
+                "value": 1
+            },
+            {
+                "label": "Reverse",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "PIPET_LOCATION",
+        "type": "dropDown",
+        "label": "P300 pipet on the left or right?",
+        "options": [
+            {
+                "displayLabel": "Flex 1-Channel 1-50 µL",
+                "value": "flex_1channel_50"
+            },
+            {
+                "displayLabel": "Flex 1-Channel 5-1000 µL",
+                "value": "flex_1channel_1000"
+            },
+        ]
+    },
+    {
+        "name": "plate_type_1",
+        "type": "dropDown",
+        "label": "Type of plate on Slot 11",
+        "options": [
+            {
+                "label": "24",
+                "value": 24
+            },
+            {
+                "label": "6",
+                "value": 6
+            },
+            {
+                "label": "12",
+                "value": 12
+            },
+            {
+                "label": "0, if no plate",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "name": "plate_type_2",
+        "type": "dropDown",
+        "label": "Type of plate on Slot 8",
+        "options": [
+            {
+                "label": "24",
+                "value": 24
+            },
+            {
+                "label": "6",
+                "value": 6
+            },
+            {
+                "label": "12",
+                "value": 12
+            },
+            {
+                "label": "0, if no plate",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "name": "plate_type_3",
+        "type": "dropDown",
+        "label": "Type of plate on Slot 5",
+        "options": [
+            {
+                "label": "24",
+                "value": 24
+            },
+            {
+                "label": "6",
+                "value": 6
+            },
+            {
+                "label": "12",
+                "value": 12
+            },
+            {
+                "label": "0, if no plate",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "name": "plate_type_4",
+        "type": "dropDown",
+        "label": "Type of plate on Slot 2",
+        "options": [
+            {
+                "label": "24",
+                "value": 24
+            },
+            {
+                "label": "6",
+                "value": 6
+            },
+            {
+                "label": "12",
+                "value": 12
+            },
+            {
+                "label": "0, if no plate",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "name": "plate_mm_1",
+        "type": "int",
+        "label": "Number of vectors transfeted on Slot 11 (up to 6)",
+        "default": 6
+    },
+    {
+        "name": "plate_repl_1",
+        "type": "int",
+        "label": "Number of wells transfected with each vector on Slot 11 (total wells to be transfected cannot exceed the well number of the plate)",
+        "default": 4
+    },
+    {
+        "name": "plate_mm_2",
+        "type": "int",
+        "label": "Number of vectors transfeted on Slot 8 (up to 6)",
+        "default": 6
+    },
+    {
+        "name": "plate_repl_2",
+        "type": "int",
+        "label": "Number of wells transfected with each vector on Slot 8 (total wells to be transfected cannot exceed the well number of the plate)",
+        "default": 4
+    },
+    {
+        "name": "plate_mm_3",
+        "type": "int",
+        "label": "Number of vectors transfeted on Slot 5 (up to 6)",
+        "default": 6
+    },
+    {
+        "name": "plate_repl_3",
+        "type": "int",
+        "label": "Number of wells transfected with each vector on Slot 5 (total wells to be transfected cannot exceed the well number of the plate)",
+        "default": 4
+    },
+    {
+        "name": "plate_mm_4",
+        "type": "int",
+        "label": "Number of vectors transfeted on Slot 2 (up to 6)",
+        "default": 6
+    },
+    {
+        "name": "plate_repl_4",
+        "type": "int",
+        "label": "Number of wells transfected with each vector on Slot 2 (total wells to be transfected cannot exceed the well number of the plate)",
+        "default": 4
+    }
+]

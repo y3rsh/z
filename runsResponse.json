@@ -1,0 +1,672 @@
+{
+    "data": [
+        {
+            "id": "ed5991d5-6a3d-477b-9a2f-ad6e61b1fb17",
+            "createdAt": "2023-11-07T15:39:40.166914+00:00",
+            "status": "succeeded",
+            "current": false,
+            "actions": [
+                {
+                    "id": "b7027b22-8626-497c-a771-50eaea464c75",
+                    "createdAt": "2023-11-07T15:41:32.443310+00:00",
+                    "actionType": "play"
+                }
+            ],
+            "errors": [],
+            "pipettes": [],
+            "modules": [],
+            "labware": [
+                {
+                    "id": "fixedTrash",
+                    "loadName": "opentrons_1_trash_1100ml_fixed",
+                    "definitionUri": "opentrons/opentrons_1_trash_1100ml_fixed/1",
+                    "location": {
+                        "slotName": "12"
+                    }
+                },
+                {
+                    "id": "64fa83e3-e3c6-43d1-bfd7-7813e2a33684",
+                    "loadName": "corning_24_wellplate_3.4ml_flat",
+                    "definitionUri": "opentrons/corning_24_wellplate_3.4ml_flat/2",
+                    "location": {
+                        "slotName": "5"
+                    },
+                    "displayName": "24"
+                },
+                {
+                    "id": "85453fe6-afc2-4d92-b677-d6d02e5ea70c",
+                    "loadName": "corning_24_wellplate_3.4ml_flat",
+                    "definitionUri": "opentrons/corning_24_wellplate_3.4ml_flat/2",
+                    "location": {
+                        "slotName": "4"
+                    },
+                    "displayName": "second"
+                }
+            ],
+            "liquids": [
+                {
+                    "id": "631552a8-298b-4540-8d69-064cc61cf935",
+                    "displayName": "sgPta",
+                    "description": "\ud83e\udd73\ufe0f\ud83d\ude2d\ud83d\ude12\ud83d\ude1d\u2753\ufe0f\u2764\ufe0f\ud83d\ude0d",
+                    "displayColor": "#EADc4d"
+                },
+                {
+                    "id": "8a51a4b9-123a-4f4c-b9d9-4b778b40ab8d",
+                    "displayName": "xBWYv",
+                    "description": "\ud83e\ude84\u2728\ud83e\udd73\ufe0f\ud83d\udc4c\ud83d\ude0d\u2764\u27a1\ud83d\ude1d\ufe0f",
+                    "displayColor": "#2d0DB9"
+                },
+                {
+                    "id": "11fca1be-752b-4a11-a109-e27b3624f0d8",
+                    "displayName": "nJBAS",
+                    "description": "\ud83d\ude0a\u25b6\ud83d\ude0d\ufe0f\ud83d\ude02\ud83e\udd73\u27a1\u2753\ufe0f\ud83d\ude1d",
+                    "displayColor": "#D1d69e"
+                },
+                {
+                    "id": "53c69837-b236-44d4-866d-f2238797d5ad",
+                    "displayName": "VfLei",
+                    "description": "\u27a1\ud83d\ude2d\ud83d\ude0a\ufe0f\u25b6\ud83d\ude02\ud83e\udd23\ufe0f\u2b05\u2728",
+                    "displayColor": "#fD5Ec1"
+                },
+                {
+                    "id": "068e0bbc-80bb-494b-a069-c73224d2ef1b",
+                    "displayName": "yXzlb",
+                    "description": "\ufe0f\ud83e\ude84\u25b6\ufe0f\ufe0f\ufe0f\ud83e\udd73\ud83d\ude0a\u27a1\u2753",
+                    "displayColor": "#90dcCe"
+                },
+                {
+                    "id": "5bda8c49-eff1-4bda-9f19-21f27c76b093",
+                    "displayName": "pznqo",
+                    "description": "\ud83d\udc95\u25b6\ud83d\ude18\u2764\u27a1\ud83d\ude1d\ud83d\ude0d\ud83e\ude84\ud83d\ude2d\u2b05",
+                    "displayColor": "#E8b6f9"
+                },
+                {
+                    "id": "fc39b378-1e4d-4442-bc0b-ea736727705a",
+                    "displayName": "Dzhrm",
+                    "description": "\u27a1\u2728\ud83d\ude2d\u2b05\u2753\ud83d\ude0d\ud83e\udd73\ud83e\ude84\u2764\ud83d\ude18",
+                    "displayColor": "#60F9cE"
+                },
+                {
+                    "id": "b4fe5ad1-2727-4cce-bb92-202fb87c9816",
+                    "displayName": "TeKah",
+                    "description": "\u2753\ud83d\udc4c\ud83d\udc95\u25b6\ufe0f\ufe0f\ufe0f\u2764\ud83d\ude0d\u2b05",
+                    "displayColor": "#6CfEdF"
+                },
+                {
+                    "id": "4d991b1f-df4a-407f-b464-59734358e427",
+                    "displayName": "VtZTB",
+                    "description": "\ud83d\ude0a\ufe0f\ud83e\udd23\u2753\ufe0f\u27a1\ud83d\udc95\ud83e\udd73\ufe0f\u25b6",
+                    "displayColor": "#7EAfF2"
+                },
+                {
+                    "id": "6dfdcabe-52e7-4b6e-b838-a887f8c3b3bf",
+                    "displayName": "EkfJL",
+                    "description": "\u2764\u2b05\ud83d\ude0a\ud83d\ude0d\ud83d\udc4c\ud83d\udc95\ud83e\ude84\u27a1\ud83d\ude18\ud83d\ude12",
+                    "displayColor": "#bd85A4"
+                },
+                {
+                    "id": "cbaee426-13d5-4743-8b90-470203d522b8",
+                    "displayName": "ehGNJ",
+                    "description": "\ufe0f\u2b05\ufe0f\ud83d\ude1d\ud83d\ude18\u2753\ud83d\ude0d\ud83e\ude84\ufe0f\u2764",
+                    "displayColor": "#Cf9DFb"
+                },
+                {
+                    "id": "98755353-bb6f-448d-854b-7d51599fc48b",
+                    "displayName": "dMOnu",
+                    "description": "\ufe0f\ud83d\ude12\u2728\ud83d\ude2d\ud83e\udd23\ud83d\udc95\ufe0f\u2753\ud83d\ude18\ud83d\ude02",
+                    "displayColor": "#Ea16c4"
+                },
+                {
+                    "id": "12f3df9a-ef3b-4255-8cfb-63cf79638fb3",
+                    "displayName": "hRqIQ",
+                    "description": "\ud83d\ude02\ud83d\ude1d\ufe0f\u2764\u2b05\ud83d\udc95\ud83d\ude0d\ud83e\ude84\ud83e\udd23\u27a1",
+                    "displayColor": "#CAbe4c"
+                },
+                {
+                    "id": "cf535d68-9fd0-4464-a007-667652d0909c",
+                    "displayName": "hCWZS",
+                    "description": "\u27a1\u2728\u2764\u2753\ud83e\ude84\ud83d\udc95\ud83d\ude18\ufe0f\ud83e\udd23\ud83d\ude2d",
+                    "displayColor": "#BfA37a"
+                },
+                {
+                    "id": "ae13683d-f5e4-4a34-b27c-f931dda979de",
+                    "displayName": "yKnia",
+                    "description": "\u25b6\u2b05\ud83d\udc4c\ud83d\ude0a\ud83d\ude18\ud83d\ude02\ud83d\udc95\ufe0f\ud83e\ude84\ud83e\udd23",
+                    "displayColor": "#EB7D28"
+                },
+                {
+                    "id": "0e869dd2-a15e-4170-aede-673eb9292d6b",
+                    "displayName": "BbhPm",
+                    "description": "\ud83d\ude0a\ud83d\ude0d\ud83d\ude02\u25b6\ud83e\ude84\ufe0f\ufe0f\ufe0f\u27a1\ud83e\udd23",
+                    "displayColor": "#3e10A8"
+                },
+                {
+                    "id": "f4a2ed03-53ba-45b1-a366-3853cdb5ef6a",
+                    "displayName": "UFsyP",
+                    "description": "\ud83d\ude2d\ud83e\udd23\ud83d\ude18\u25b6\u2b05\ud83d\ude0a\ud83e\udd73\u27a1\ufe0f\ud83e\ude84",
+                    "displayColor": "#B7fCF9"
+                },
+                {
+                    "id": "dab40ecf-5e29-4e3a-a4a9-bf5891f2962d",
+                    "displayName": "YFUhj",
+                    "description": "\ud83d\ude0d\ud83d\ude0a\ufe0f\ud83d\udc95\ufe0f\ufe0f\ud83d\ude1d\ud83d\ude12\ud83e\udd73\u2753",
+                    "displayColor": "#A8eE0a"
+                },
+                {
+                    "id": "213c604e-aef1-4cce-9a6b-85b5900ff3c7",
+                    "displayName": "bsGCN",
+                    "description": "\ud83d\ude02\ufe0f\ufe0f\u27a1\ud83d\ude2d\ud83e\udd23\u25b6\ud83d\ude0a\ud83e\ude84\ud83d\ude1d",
+                    "displayColor": "#9df4D8"
+                },
+                {
+                    "id": "b7b41f76-5d00-48c1-aa67-dd52af04bbbd",
+                    "displayName": "xkdKF",
+                    "description": "\ud83d\ude0d\u2753\ufe0f\ud83d\ude18\u25b6\ud83d\ude12\ud83e\udd73\ufe0f\ud83d\ude1d\u2764",
+                    "displayColor": "#0a8d5E"
+                },
+                {
+                    "id": "f7ed1709-985d-4ac2-8d57-25e48e4f6670",
+                    "displayName": "WmPho",
+                    "description": "\ufe0f\ud83d\udc4c\ud83d\ude18\ud83e\ude84\ud83d\ude0a\ud83d\ude1d\u2753\u27a1\u25b6\ud83d\ude02",
+                    "displayColor": "#5A201c"
+                },
+                {
+                    "id": "09cfdf1d-9dec-4942-aaa1-139be75f81db",
+                    "displayName": "kVjmJ",
+                    "description": "\u2764\ud83d\ude12\ud83e\ude84\u2728\ud83e\udd73\ud83d\ude1d\ufe0f\ud83d\ude0a\ufe0f\ud83d\ude18",
+                    "displayColor": "#Bdf2D1"
+                },
+                {
+                    "id": "68424cee-d556-4517-9382-2ebdd6bcf4ec",
+                    "displayName": "XEtuI",
+                    "description": "\ud83d\ude0a\ud83e\udd73\u2728\ufe0f\ufe0f\ud83e\udd23\ud83d\ude1d\ud83d\ude02\ud83d\udc95\ud83e\ude84",
+                    "displayColor": "#b1364F"
+                },
+                {
+                    "id": "66d52656-3315-4157-9229-c474c5ce0e28",
+                    "displayName": "NTCsX",
+                    "description": "\u27a1\u2753\u2728\ud83e\udd73\ud83d\ude1d\ud83d\ude02\ud83e\udd23\ufe0f\ufe0f\ud83d\ude0d",
+                    "displayColor": "#dDe406"
+                },
+                {
+                    "id": "d3afc323-faa6-4bcf-bbfa-82074a5f5e34",
+                    "displayName": "LbUgH",
+                    "description": "\u25b6\ufe0f\ud83d\ude18\ufe0f\ud83d\ude1d\ud83e\udd23\ud83d\udc95\ud83d\ude12\u27a1\ud83e\ude84",
+                    "displayColor": "#adAb5D"
+                },
+                {
+                    "id": "63963a77-8d85-4983-8c5f-1797d40331e4",
+                    "displayName": "dGuWH",
+                    "description": "\ud83d\ude12\ud83d\udc95\ud83d\ude1d\u2753\u2b05\ud83e\udd23\u25b6\ud83d\udc4c\u2728\ud83d\ude2d",
+                    "displayColor": "#ba1dE2"
+                },
+                {
+                    "id": "f41044bd-b5a8-489d-b9eb-74b6a2e9ee67",
+                    "displayName": "QzZPX",
+                    "description": "\u2753\ud83e\udd23\u2728\ud83d\udc95\ufe0f\ud83e\ude84\u25b6\ud83d\ude12\ufe0f\ud83d\ude0d",
+                    "displayColor": "#db3cA9"
+                },
+                {
+                    "id": "24679011-5c91-4caa-95c1-c1cdbfcf71e1",
+                    "displayName": "StXYN",
+                    "description": "\ud83d\ude1d\ufe0f\ud83e\udd23\u27a1\ud83d\udc4c\ud83d\ude02\ud83d\ude2d\u2b05\ud83d\ude0d\u2753",
+                    "displayColor": "#b08FA7"
+                },
+                {
+                    "id": "21abf196-7019-47eb-a138-3842ae7e1d09",
+                    "displayName": "tMUPf",
+                    "description": "\ud83d\ude02\u2b05\u2764\ud83d\udc4c\ud83d\ude1d\ufe0f\u2753\u2728\ud83e\ude84\ud83d\ude12",
+                    "displayColor": "#94a0FB"
+                },
+                {
+                    "id": "b0eaabf5-976d-4945-bd54-f90641df1392",
+                    "displayName": "mCDIi",
+                    "description": "\u2728\ud83d\ude2d\ufe0f\ud83e\udd23\u25b6\ud83e\udd73\ud83d\ude12\ud83d\udc4c\u2b05\u2753",
+                    "displayColor": "#47BCe2"
+                },
+                {
+                    "id": "2f88f0cf-ac6a-4949-a675-7f555de9136b",
+                    "displayName": "Cnrew",
+                    "description": "\ud83e\udd23\u2753\ufe0f\ud83d\ude2d\ud83d\ude1d\u2728\ud83d\ude18\ufe0f\ud83d\ude12\ud83d\udc95",
+                    "displayColor": "#fb03d7"
+                },
+                {
+                    "id": "772f05d4-e656-4a88-abc5-b6aa38f78509",
+                    "displayName": "BviQT",
+                    "description": "\ufe0f\ud83d\ude02\ud83d\ude1d\u2753\ud83e\udd23\ud83d\ude0a\ufe0f\ufe0f\u2728\ud83d\ude18",
+                    "displayColor": "#8Ad27D"
+                },
+                {
+                    "id": "01431755-81f2-4a14-8d8b-b60417b40e83",
+                    "displayName": "hSqCi",
+                    "description": "\ufe0f\u2753\u2764\ufe0f\ud83d\ude18\ud83d\ude0a\ud83d\ude12\ud83d\ude02\ud83d\ude0d\u2b05",
+                    "displayColor": "#aDF2c7"
+                },
+                {
+                    "id": "1aff8d8c-22b7-42c2-81b5-81965307d8c8",
+                    "displayName": "uXRPK",
+                    "description": "\ud83e\udd73\ud83d\udc95\ufe0f\ufe0f\ud83d\ude0a\ud83d\ude1d\u27a1\u25b6\u2753\u2b05",
+                    "displayColor": "#5F9D4a"
+                },
+                {
+                    "id": "2f00392a-b7e6-4dd7-90bc-22afe4cd44b8",
+                    "displayName": "jdxQE",
+                    "description": "\ufe0f\u2753\ud83d\udc4c\ud83d\ude0d\ud83d\ude0a\ud83e\udd73\ud83d\ude12\ud83d\udc95\ud83d\ude02\ufe0f",
+                    "displayColor": "#b58ad9"
+                },
+                {
+                    "id": "7ee80c8a-fd04-45f2-a9cd-4e1eaa5ff2b3",
+                    "displayName": "YpdWl",
+                    "description": "\ud83d\ude0d\u25b6\ud83e\ude84\u2764\u2b05\ud83d\udc4c\u27a1\ufe0f\ud83d\ude2d\ud83e\udd23",
+                    "displayColor": "#A6E592"
+                },
+                {
+                    "id": "d7fed95d-7934-4fe4-9cba-a45355ba2246",
+                    "displayName": "CEWNQ",
+                    "description": "\ufe0f\u27a1\ud83e\udd23\ud83d\udc4c\ud83e\udd73\ud83d\ude12\u2b05\ud83d\ude02\ud83d\ude18\ud83d\ude0d",
+                    "displayColor": "#fBC92a"
+                },
+                {
+                    "id": "fbe45ed6-a327-4920-a1f3-b9340d6c91aa",
+                    "displayName": "jmPGl",
+                    "description": "\ud83d\ude18\ufe0f\ud83d\ude1d\ud83d\ude02\ud83d\ude2d\ud83d\ude12\ud83e\udd23\ud83d\udc4c\ufe0f\ufe0f",
+                    "displayColor": "#EdC0De"
+                },
+                {
+                    "id": "68289eaa-b6be-48c0-b7ad-932a4b1134c5",
+                    "displayName": "pchjs",
+                    "description": "\ud83d\ude18\u2753\ud83e\udd23\ud83d\ude12\ufe0f\ufe0f\ud83d\ude02\u25b6\ud83d\ude1d\ud83e\udd73",
+                    "displayColor": "#Fd3eA2"
+                },
+                {
+                    "id": "6c2b8900-487d-4d57-9d99-50eb72867101",
+                    "displayName": "DOtbm",
+                    "description": "\ud83e\udd73\ud83d\ude0d\ud83d\udc4c\ud83d\udc95\ufe0f\u27a1\ud83d\ude18\u2728\ud83e\ude84\ud83d\ude12",
+                    "displayColor": "#94b6Ba"
+                }
+            ],
+            "labwareOffsets": [],
+            "protocolId": "2a64ac5b-a353-48b5-bab0-054d2cfa5183",
+            "completedAt": "2023-11-07T15:42:46.139557+00:00",
+            "startedAt": "2023-11-07T15:41:32.506036+00:00"
+        },
+        {
+            "id": "6a228ebd-94fb-4599-bf60-75596bc3986d",
+            "createdAt": "2024-01-12T07:18:38.506791+00:00",
+            "status": "stopped",
+            "current": false,
+            "actions": [
+                {
+                    "id": "3ac1a0ae-6b6b-4a33-bf73-de998977f508",
+                    "createdAt": "2024-02-01T23:08:04.936334+00:00",
+                    "actionType": "stop"
+                }
+            ],
+            "errors": [],
+            "pipettes": [],
+            "modules": [],
+            "labware": [],
+            "liquids": [],
+            "labwareOffsets": [],
+            "protocolId": "1e858432-d8e0-4daf-94e5-6af848fd0349"
+        },
+        {
+            "id": "606556ce-8030-4851-8702-d67081846772",
+            "createdAt": "2024-02-09T20:49:29.571630+00:00",
+            "status": "stopped",
+            "current": false,
+            "actions": [
+                {
+                    "id": "d7ef489c-5c5e-45ce-a31e-86a822091614",
+                    "createdAt": "2024-02-09T20:53:07.390684+00:00",
+                    "actionType": "stop"
+                }
+            ],
+            "errors": [],
+            "pipettes": [],
+            "modules": [],
+            "labware": [],
+            "liquids": [],
+            "labwareOffsets": [],
+            "protocolId": "1d17357e-cc94-4147-931a-b1b2ddc5c42b",
+            "completedAt": "2024-02-09T20:53:13.711786+00:00"
+        },
+        {
+            "id": "6579e581-fe91-49f0-93ba-509c6acbc702",
+            "createdAt": "2024-02-09T20:56:40.915512+00:00",
+            "status": "failed",
+            "current": false,
+            "actions": [
+                {
+                    "id": "f82b2a38-5840-49fe-b424-ed5dc5123d5c",
+                    "createdAt": "2024-02-09T20:57:10.375454+00:00",
+                    "actionType": "play"
+                }
+            ],
+            "errors": [
+                {
+                    "id": "9e5e6e98-49ea-469e-a88d-9b73fb02567d",
+                    "createdAt": "2024-02-09T20:57:32.409096+00:00",
+                    "errorCode": "4000",
+                    "errorType": "ExceptionInProtocolError",
+                    "detail": "AttributeError [line 18]: 'str' object has no attribute 'items'",
+                    "errorInfo": {},
+                    "wrappedErrors": [
+                        {
+                            "id": "9e5e6e98-49ea-469e-a88d-9b73fb02567d",
+                            "createdAt": "2024-02-09T20:57:32.409096+00:00",
+                            "errorCode": "4000",
+                            "errorType": "PythonException",
+                            "detail": "AttributeError: 'str' object has no attribute 'items'",
+                            "errorInfo": {
+                                "args": "(\"'str' object has no attribute 'items'\",)",
+                                "traceback": "  File \"usr/lib/python3.7/site-packages/opentrons/protocols/execution/execute_python.py\", line 69, in run_python\n\n  File \"<string>\", line 1, in <module>\n\n  File \"testing_partial_tip_hack.py\", line 18, in run\n\n  File \"usr/lib/python3.7/site-packages/opentrons/hardware_control/instruments/ot2/pipette.py\", line 254, in update_config_item\n\n  File \"usr/lib/python3.7/site-packages/opentrons_shared_data/pipette/load_data.py\", line 202, in update_pipette_configuration\n",
+                                "class": "AttributeError"
+                            },
+                            "wrappedErrors": []
+                        }
+                    ]
+                }
+            ],
+            "pipettes": [
+                {
+                    "id": "d7e62e5b-2594-4946-ad00-6325a92942df",
+                    "pipetteName": "p300_multi_gen2",
+                    "mount": "left"
+                }
+            ],
+            "modules": [],
+            "labware": [
+                {
+                    "id": "239696fd-a7e4-4a14-ad8e-1f3b3c0213db",
+                    "loadName": "opentrons_96_tiprack_300ul",
+                    "definitionUri": "opentrons/opentrons_96_tiprack_300ul/1",
+                    "location": {
+                        "slotName": "4"
+                    }
+                }
+            ],
+            "liquids": [],
+            "labwareOffsets": [],
+            "protocolId": "33e6a2d7-3703-4d5b-bc6d-39eb7667f5d8",
+            "completedAt": "2024-02-09T20:57:58.770771+00:00",
+            "startedAt": "2024-02-09T20:57:10.471414+00:00"
+        },
+        {
+            "id": "b3a8f243-860e-466d-8070-f2af82b1472c",
+            "createdAt": "2024-02-09T22:53:58.983981+00:00",
+            "status": "failed",
+            "current": false,
+            "actions": [
+                {
+                    "id": "9e7d27cf-accc-4ffc-bcef-20a30ea25834",
+                    "createdAt": "2024-02-09T22:54:10.735642+00:00",
+                    "actionType": "play"
+                }
+            ],
+            "errors": [
+                {
+                    "id": "56eb2369-a98b-4dec-b1d7-5293d4a33c30",
+                    "createdAt": "2024-02-09T22:54:32.892564+00:00",
+                    "errorCode": "4000",
+                    "errorType": "ExceptionInProtocolError",
+                    "detail": "ValidationError [line 18]: 1 validation error for PipetteConfigurations\npickUpTipConfigurations -> pressFit -> currentByTipCount\n  value is not a valid dict (type=type_error.dict)",
+                    "errorInfo": {},
+                    "wrappedErrors": [
+                        {
+                            "id": "56eb2369-a98b-4dec-b1d7-5293d4a33c30",
+                            "createdAt": "2024-02-09T22:54:32.892564+00:00",
+                            "errorCode": "4000",
+                            "errorType": "PythonException",
+                            "detail": "pydantic.error_wrappers.ValidationError: 1 validation error for PipetteConfigurations\npickUpTipConfigurations -> pressFit -> currentByTipCount\n  value is not a valid dict (type=type_error.dict)",
+                            "errorInfo": {
+                                "args": "([ErrorWrapper(exc=ValidationError(model='PickUpTipConfigurations', errors=[{'loc': ('pressFit', 'currentByTipCount'), 'msg': 'value is not a valid dict', 'type': 'type_error.dict'}]), loc=('pickUpTipConfigurations',))], <class 'opentrons_shared_data.pipette.pipette_definition.PipetteConfigurations'>)",
+                                "model": "<class 'opentrons_shared_data.pipette.pipette_definition.PipetteConfigurations'>",
+                                "raw_errors": "[ErrorWrapper(exc=ValidationError(model='PickUpTipConfigurations', errors=[{'loc': ('pressFit', 'currentByTipCount'), 'msg': 'value is not a valid dict', 'type': 'type_error.dict'}]), loc=('pickUpTipConfigurations',))]",
+                                "traceback": "  File \"usr/lib/python3.7/site-packages/opentrons/protocols/execution/execute_python.py\", line 69, in run_python\n\n  File \"<string>\", line 1, in <module>\n\n  File \"testing_partial_tip_hackv2.py\", line 18, in run\n\n  File \"usr/lib/python3.7/site-packages/opentrons/hardware_control/instruments/ot2/pipette.py\", line 254, in update_config_item\n\n  File \"usr/lib/python3.7/site-packages/opentrons_shared_data/pipette/load_data.py\", line 232, in update_pipette_configuration\n\n  File \"pydantic/main.py\", line 578, in pydantic.main.BaseModel.parse_obj\n\n  File \"pydantic/main.py\", line 406, in pydantic.main.BaseModel.__init__\n",
+                                "class": "ValidationError"
+                            },
+                            "wrappedErrors": []
+                        }
+                    ]
+                }
+            ],
+            "pipettes": [
+                {
+                    "id": "04b2b82b-02c0-4d8a-a6d3-6a76f1abf223",
+                    "pipetteName": "p300_multi_gen2",
+                    "mount": "left"
+                }
+            ],
+            "modules": [],
+            "labware": [
+                {
+                    "id": "8d06b434-cc7e-4a9a-9f44-0f7a35ff89b8",
+                    "loadName": "opentrons_96_tiprack_300ul",
+                    "definitionUri": "opentrons/opentrons_96_tiprack_300ul/1",
+                    "location": {
+                        "slotName": "5"
+                    }
+                }
+            ],
+            "liquids": [],
+            "labwareOffsets": [],
+            "protocolId": "55eb00e2-ea83-4d89-9ece-e2970cdcbeb7",
+            "completedAt": "2024-02-09T22:54:59.183277+00:00",
+            "startedAt": "2024-02-09T22:54:10.834112+00:00"
+        },
+        {
+            "id": "f12dce25-601d-4c8a-b546-c373fe93dacc",
+            "createdAt": "2024-02-12T15:39:59.514194+00:00",
+            "status": "succeeded",
+            "current": false,
+            "actions": [
+                {
+                    "id": "7b269854-e748-476b-89b5-42b4b860b981",
+                    "createdAt": "2024-02-12T15:41:30.818036+00:00",
+                    "actionType": "play"
+                }
+            ],
+            "errors": [],
+            "pipettes": [
+                {
+                    "id": "1584ed8f-ff96-4dba-87f9-ff0ce0db77a3",
+                    "pipetteName": "p300_multi_gen2",
+                    "mount": "left"
+                }
+            ],
+            "modules": [],
+            "labware": [
+                {
+                    "id": "71713a70-f7c5-44d7-94b3-75b2bb68fa31",
+                    "loadName": "opentrons_96_tiprack_300ul",
+                    "definitionUri": "opentrons/opentrons_96_tiprack_300ul/1",
+                    "location": {
+                        "slotName": "5"
+                    }
+                }
+            ],
+            "liquids": [],
+            "labwareOffsets": [],
+            "protocolId": "34f4d6f8-41b7-4df4-9e3e-345659e99ab0",
+            "completedAt": "2024-02-12T16:10:08.933741+00:00",
+            "startedAt": "2024-02-12T15:41:30.919081+00:00"
+        },
+        {
+            "id": "f4aed399-57d6-4ad8-a031-a6345adc2c1f",
+            "createdAt": "2024-02-26T18:35:01.087453+00:00",
+            "status": "stopped",
+            "current": false,
+            "actions": [
+                {
+                    "id": "0b39f0d0-9a63-4995-a835-8e48133a7e56",
+                    "createdAt": "2024-02-27T21:56:32.290795+00:00",
+                    "actionType": "stop"
+                }
+            ],
+            "errors": [],
+            "pipettes": [],
+            "modules": [],
+            "labware": [
+                {
+                    "id": "fixedTrash",
+                    "loadName": "opentrons_1_trash_1100ml_fixed",
+                    "definitionUri": "opentrons/opentrons_1_trash_1100ml_fixed/1",
+                    "location": {
+                        "slotName": "12"
+                    }
+                }
+            ],
+            "liquids": [],
+            "labwareOffsets": [],
+            "protocolId": "dd00b440-65eb-4aa6-8e90-0fdc8492fa92",
+            "completedAt": "2024-02-27T21:56:38.479145+00:00"
+        },
+        {
+            "id": "4647edbf-d1b5-42ce-9f14-3fd130ec99b0",
+            "createdAt": "2024-02-27T22:01:37.629756+00:00",
+            "status": "stopped",
+            "current": false,
+            "actions": [
+                {
+                    "id": "3eeea144-b606-4cba-8f31-6168f1bb0648",
+                    "createdAt": "2024-02-28T14:43:35.448566+00:00",
+                    "actionType": "stop"
+                }
+            ],
+            "errors": [],
+            "pipettes": [],
+            "modules": [],
+            "labware": [
+                {
+                    "id": "fixedTrash",
+                    "loadName": "opentrons_1_trash_1100ml_fixed",
+                    "definitionUri": "opentrons/opentrons_1_trash_1100ml_fixed/1",
+                    "location": {
+                        "slotName": "12"
+                    }
+                }
+            ],
+            "liquids": [],
+            "labwareOffsets": [],
+            "protocolId": "dd00b440-65eb-4aa6-8e90-0fdc8492fa92",
+            "completedAt": "2024-02-28T14:43:41.566826+00:00"
+        },
+        {
+            "id": "9a2e2d19-23c4-432e-be3b-90e50a1aa005",
+            "createdAt": "2024-02-28T19:43:46.450667+00:00",
+            "status": "stopped",
+            "current": false,
+            "actions": [
+                {
+                    "id": "53f0f3cb-158a-4304-a4ee-fc9f3bd31ede",
+                    "createdAt": "2024-02-28T19:49:28.992402+00:00",
+                    "actionType": "stop"
+                }
+            ],
+            "errors": [],
+            "pipettes": [],
+            "modules": [],
+            "labware": [],
+            "liquids": [],
+            "labwareOffsets": [],
+            "protocolId": "66c449ec-c2fe-4731-879b-ef7477f73ad7",
+            "completedAt": "2024-02-28T19:49:35.310378+00:00"
+        },
+        {
+            "id": "706da635-fc09-4a08-8ced-185f17962670",
+            "createdAt": "2024-02-28T19:50:11.507752+00:00",
+            "status": "stopped",
+            "current": false,
+            "actions": [
+                {
+                    "id": "fa6fad13-b8dc-4722-a8eb-3346ef78346a",
+                    "createdAt": "2024-02-28T19:59:19.411863+00:00",
+                    "actionType": "stop"
+                }
+            ],
+            "errors": [],
+            "pipettes": [],
+            "modules": [],
+            "labware": [
+                {
+                    "id": "fixedTrash",
+                    "loadName": "opentrons_1_trash_1100ml_fixed",
+                    "definitionUri": "opentrons/opentrons_1_trash_1100ml_fixed/1",
+                    "location": {
+                        "slotName": "12"
+                    }
+                }
+            ],
+            "liquids": [],
+            "labwareOffsets": [],
+            "protocolId": "aabff1a9-4f63-4de7-a088-d7fb81fc5765",
+            "completedAt": "2024-02-28T19:59:25.812895+00:00"
+        },
+        {
+            "id": "c73349d3-2e81-4303-96d3-5a663175d1d7",
+            "createdAt": "2024-03-01T20:39:46.483123+00:00",
+            "status": "stopped",
+            "current": false,
+            "actions": [
+                {
+                    "id": "9233e77e-144c-4513-b5cd-88735bc47c19",
+                    "createdAt": "2024-03-01T20:46:28.113373+00:00",
+                    "actionType": "stop"
+                }
+            ],
+            "errors": [],
+            "pipettes": [],
+            "modules": [],
+            "labware": [
+                {
+                    "id": "fixedTrash",
+                    "loadName": "opentrons_1_trash_1100ml_fixed",
+                    "definitionUri": "opentrons/opentrons_1_trash_1100ml_fixed/1",
+                    "location": {
+                        "slotName": "12"
+                    }
+                }
+            ],
+            "liquids": [],
+            "labwareOffsets": [],
+            "protocolId": "71a8445d-d867-4d97-9185-320e01ac4c1a",
+            "completedAt": "2024-03-01T20:46:34.759456+00:00"
+        },
+        {
+            "id": "a6da8f2f-85ce-4437-9d35-752742d0906b",
+            "createdAt": "2024-03-05T16:11:36.985963+00:00",
+            "status": "stopped",
+            "current": false,
+            "actions": [
+                {
+                    "id": "c721dc22-95f8-4388-96c3-fb1552e22661",
+                    "createdAt": "2024-03-05T16:50:13.533172+00:00",
+                    "actionType": "stop"
+                }
+            ],
+            "errors": [],
+            "pipettes": [],
+            "modules": [],
+            "labware": [
+                {
+                    "id": "fixedTrash",
+                    "loadName": "opentrons_1_trash_1100ml_fixed",
+                    "definitionUri": "opentrons/opentrons_1_trash_1100ml_fixed/1",
+                    "location": {
+                        "slotName": "12"
+                    }
+                }
+            ],
+            "liquids": [],
+            "labwareOffsets": [],
+            "protocolId": "aabff1a9-4f63-4de7-a088-d7fb81fc5765",
+            "completedAt": "2024-03-05T16:50:19.818429+00:00"
+        }
+    ],
+    "links": {},
+    "meta": {
+        "cursor": 0,
+        "totalLength": 12
+    }
+}
